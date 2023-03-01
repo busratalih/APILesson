@@ -5,7 +5,7 @@ import java.io.File;
 import java.io.IOException;
 
 
-public class JavaToJson {
+public class JsonToJava {
 
     private static ObjectMapper mapper;
 
