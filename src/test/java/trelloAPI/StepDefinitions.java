@@ -284,7 +284,6 @@ public class StepDefinitions {
     public void kullanıcı_basarili_bir_sekilde_boardun_delete_edildigini_verfiy_eder() {
         response.then().assertThat().statusCode(200);
     }
-
         
         
 

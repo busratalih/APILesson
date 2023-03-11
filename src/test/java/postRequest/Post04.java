@@ -6,6 +6,8 @@ import io.restassured.path.json.JsonPath;
 import io.restassured.response.Response;
 import org.junit.Before;
 import org.junit.Test;
+import pojoDatas.CryptoCurrencyPojo;
+import pojoDatas.CustomerInfoPojo;
 import testData.BitPaceGetToken;
 
 import java.util.Map;
